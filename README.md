@@ -90,7 +90,7 @@
 
 ## 8. Links
 
-- **GitHub:** [https://github.com/your-github-id](https://github.com/edounoqe)
+- **GitHub:** [https://github.com/edounoqe](https://github.com/edounoqe)
 - **Portfolio:** [https://example.com](https://example.com)
 
 ---
